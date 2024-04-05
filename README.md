@@ -29,4 +29,4 @@ As informações contidas no arquivo ***Samples.zip*** são detalhadas abaixo. P
     - Produtos:
         - Cada linha corresponde ao volume do **produto** indicado.
 
-Desenvolvedora: Maria Luíza Teixeira Santos.
+Desenvolvedora: Maria Luíza Teixeira Santos (marialuizats@usp.br).
