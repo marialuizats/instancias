@@ -4,7 +4,7 @@
 
 Os arquivos aqui encontrados foram os utilizados na execução de testes para a defesa de Mestrado.
 
-Ao todo, são apresentadas cinco instâncias com 1000 **clientes (endereços)** diferentes, onde cada **cliente** tem o seu respectivo pedido, com os produtos que deverão ser entregues. Além disso, temos os estoques dos ***fulfillment centers*** para cada produto disponível, sendo 20 no total.
+Ao todo, são apresentadas cinco instâncias com 1000 **clientes (endereços)** diferentes, retiradas da base de dados da [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), onde cada **cliente** tem o seu respectivo pedido, com os produtos que deverão ser entregues. Além disso, temos os estoques dos ***fulfillment centers*** para cada produto disponível, sendo 20 no total.
 
 As informações contidas no arquivo ***Samples.zip*** são detalhadas abaixo. Para todas as pastas informadas, cada arquivo corresponde a uma instância diferente.
 
