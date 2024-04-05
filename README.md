@@ -22,7 +22,7 @@ As informações contidas no arquivo ***Sample.zip*** são detalhadas abaixo. Pa
         - Cada linha corresponde a um ***fulfillment center**, onde* a matriz indica a quantidade de itens de cada produto, dado pela posição (índice) da matriz, disponível no ***fulfillment center*** indicado.
 - Pedidos:
     - O conteúdo dos arquivos é explicados como segue:
-        - Cada linha corresponde a um **cliente***,* onde a matriz indica a quantidade de itens de cada produto, dado pela posição (índice) da matriz, solicitados no pedido do **cliente** indicado.
+        - Cada linha corresponde a um **cliente**, onde a matriz indica a quantidade de itens de cada produto, dado pela posição (índice) da matriz, solicitados no pedido do **cliente** indicado.
 - Pesos:
     - Pedidos:
         - Cada linha corresponde ao volume do **pedido** do **cliente** indicado.
